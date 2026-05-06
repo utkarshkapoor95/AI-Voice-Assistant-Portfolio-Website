@@ -1,9 +1,5 @@
 # 🎙️ AI Voice Assistant — Portfolio Website
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://utkarsh-portfolio-ai.lovable.app)
-[![Vapi](https://img.shields.io/badge/Vapi-Voice%20AI-purple?style=for-the-badge)](https://vapi.ai)
-[![GPT-4o](https://img.shields.io/badge/OpenAI-GPT--4o-green?style=for-the-badge)](https://openai.com)
-
 A live portfolio website with an integrated AI voice assistant that enables recruiters and prospects to have natural conversations and book consultations seamlessly — demonstrating end-to-end product thinking with AI, automation, and real-time integrations.
 
 ## Live Demo
